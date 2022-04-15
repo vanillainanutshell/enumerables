@@ -1,6 +1,7 @@
 # Enumerables
 
-> 
+> Ruby Enumerable module that implements "all?", "any?" and "filter" methods.
+
 ## Authors
 
 👤 **Mauro Vasconcelos**
