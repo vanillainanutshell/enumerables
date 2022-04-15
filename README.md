@@ -1,6 +1,21 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Enumerables
 
 > Ruby Enumerable module that implements "all?", "any?" and "filter" methods.
+
+## Built With
+
+- Ruby
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps:
+
+- Select the link with the code on the https code tab in the repo.
+- Open a Terminal and write the command: git clone "git@github.com:vanillainanutshell/enumerables.git".
+- cd into enumerables folder
+- run ruby list.rb
 
 ## Authors
 

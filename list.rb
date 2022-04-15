@@ -24,4 +24,4 @@ list.all? { |e| e > 5 }
 list.any? { |e| e == 2 }
 list.any? { |e| e == 5 }
 
-list.filter(&:even?)
+list.filter?(&:even?)
